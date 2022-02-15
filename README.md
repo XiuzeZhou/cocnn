@@ -1,6 +1,6 @@
 # cocnn
 
-CoCNN: Co-occurrence CNN for Recommendation
+M. Chen, T. Ma, and X. Zhou, "CoCNN: Co-occurrence CNN for Recommendation", *Expert Systems with Applications*, Jun. 2022, 195, pp. 116595
 
 **中文介绍：** http://snailwish.com/383/
 
